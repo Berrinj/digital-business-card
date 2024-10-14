@@ -74,6 +74,7 @@ button.linkedIn {
 
 button.email {
   background-color: #FFF;
+  color: #000;
 }
 
 button.email:hover {

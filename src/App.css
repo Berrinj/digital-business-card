@@ -14,7 +14,7 @@
 .profile-picture {
   display: flex;
   /*set a background cradient white to black, from left to right */
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.15), rgba(26, 27, 33, 0.8));
+  background: linear-gradient(1deg, rgba(255, 255, 255, 0.15), rgba(26, 27, 33, 0.8));
   border-radius: 10px 10px 0 0;
 
 }

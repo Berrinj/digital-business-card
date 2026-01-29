@@ -20,8 +20,9 @@
 }
 
 .profile-picture-img {
-  max-width: 317px;
-  height: 317px;
+  width: 317px;
+  height: 400px;
+  margin: auto;
   object-fit: cover;
   border-radius: 10px 10px 0 0;
 }
